@@ -18,6 +18,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+🔗 **Salesforce Trailblazer Profile:** [Click Here](https://www.salesforce.com/trailblazer/rajdeepsingh)
+
 ## Languages and Tools
 
 ### Salesforce Development  
@@ -41,7 +43,13 @@
 ### Other Skills  
 ![Data Loader](https://img.shields.io/badge/Data%20Loader-FF9900?style=for-the-badge&logo=database&logoColor=white)  ![Workbench](https://img.shields.io/badge/Workbench-0070D2?style=for-the-badge&logo=tools&logoColor=white)  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  ![Salesforce CLI](https://img.shields.io/badge/Salesforce%20CLI-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)  ![Agile](https://img.shields.io/badge/Agile-0070D2?style=for-the-badge&logo=agile&logoColor=white) ![Version Control](https://img.shields.io/badge/Version%20Control-F05032?style=for-the-badge&logo=git&logoColor=white) ![Unit Testing](https://img.shields.io/badge/Unit%20Testing-00A1E0?style=for-the-badge&logo=test&logoColor=white)  
 
-
+## 📜 Salesforce Certifications
+- 🏆 **Salesforce Certified AI Specialist**
+  
+- 🏆 **Salesforce Certified AI Associate**
+  
+- 🏆 **Salesforce Certified Administrator**
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeep-addweb&show_icons=true&locale=en&layout=compact" alt="rajdeep-addweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep-addweb&show_icons=true&locale=en" alt="rajdeep-addweb" /></p>
