@@ -1,29 +1,24 @@
 <h1 align="center">Hi 👋, I'm Rajdeep Sisodia</h1>
 <h3 align="center">Salesforce Developer expertise in Apex, LWC, automation, and seamless API connections.</h3>
 
+## 🚀 About Me  
+🌱 I’m currently learning **AI-driven automation, DevOps for Salesforce, and advanced integrations.**  
+
+👯 I’m looking to collaborate on **Salesforce optimizations, automation projects, and enterprise solutions.**
+
+🤝 I’m looking for help with **enhancing API performance and large-scale data management.**  
+
+💬 Ask me about **Salesforce development, workflows, and seamless third-party integrations.**  
+
+⚡ Fun fact: **I debug Apex faster than my coffee brews!** ☕😆  
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajdeep-addweb&label=Profile%20views&color=0e75b6&style=flat" alt="rajdeep-addweb" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajdeep-addweb" alt="rajdeep-addweb" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Crafting dynamic, high-performance web applications using MERN stack.**
-
-- 🌱 I’m currently learning **Modular software design, infrastructure automation, and cloud ecosystems.**
-
-- 👯 I’m looking to collaborate on **Open-source initiatives and innovative projects.**
-
-- 🤝 I’m looking for help with **Optimizing backend performance and database scalability.**
-
-- 💬 Ask me about **MERN stack, system architecture, and authentication strategies.**
-
-- ⚡ Fun fact **I can fix bugs while making coffee! ☕**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
 ### Salesforce Development  
 ![Apex](https://img.shields.io/badge/Apex-000000?style=for-the-badge&logo=salesforce&logoColor=white)  ![Visualforce](https://img.shields.io/badge/Visualforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  ![Lightning Components](https://img.shields.io/badge/Lightning%20Components-0070D2?style=for-the-badge&logo=salesforce&logoColor=white)  ![LWC](https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  ![SOQL](https://img.shields.io/badge/SOQL-FF9900?style=for-the-badge&logo=database&logoColor=white)  ![SOSL](https://img.shields.io/badge/SOSL-FF9900?style=for-the-badge&logo=database&logoColor=white)  ![Salesforce DX](https://img.shields.io/badge/Salesforce%20DX-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white)  ![Einstein Analytics](https://img.shields.io/badge/Einstein%20Analytics-005F9E?style=for-the-badge&logo=salesforce&logoColor=white)  
@@ -50,5 +45,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajdeep-addweb&show_icons=true&locale=en&layout=compact" alt="rajdeep-addweb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajdeep-addweb&show_icons=true&locale=en" alt="rajdeep-addweb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajdeep-addweb&" alt="rajdeep-addweb" /></p>
